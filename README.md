@@ -1,7 +1,7 @@
-# 🚀 Welcome to the Ultimate KuCoin AutoClicker Bot! 💰
+# 🚀 Welcome to the Ultimate xKuCoin AutoClicker Bot! 💰
 
 ## Overview
-Welcome to the KuCoin AutoClicker Bot repository, your premier solution for automating trading actions on the KuCoin exchange using Python. This powerful tool allows you to manage multiple accounts and execute trades efficiently, making it easy to capitalize on market opportunities and streamline your trading strategies.
+Welcome to the KuCoin AutoClicker Bot repository, your premier solution for automating trading actions on the xKuCoin bot using Python. This powerful tool allows you to manage multiple accounts and execute trades efficiently, making it easy to capitalize on market opportunities and streamline your trading strategies.
 
 ## Features
 🤖 **Automation**: Effortlessly automate the process of placing trades on KuCoin with just a few simple commands.
