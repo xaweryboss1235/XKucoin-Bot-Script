@@ -43,7 +43,7 @@ Don’t miss out on the opportunity to optimize your trading strategy with the A
 Let the tool do the work while you enjoy the results! 🚀💹
 
 ## LICENSE
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 Feel free to explore the repository, dive into the code, and begin automating your trading on KuCoin effortlessly. Happy trading! 🎉
